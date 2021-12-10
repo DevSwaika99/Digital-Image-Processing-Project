@@ -1,5 +1,5 @@
 # SWE1010 Digital Image Processing
-### Electrical Equipment Fult Detection Using Matlab
+### Electrical Equipment Fault Detection Using Thermal Imaging in Matlab
 
 Team Members
 
